@@ -1,5 +1,6 @@
 # Fusing Priori and Posteriori Metrics for Automatic Dataset Annotation of Planar Grasping
 CoRL2022: Fusing Priori and Posteriori Metrics for  Automatic Dataset Annotation of Planar Grasping 
+
 Paper link: https://proceedings.mlr.press/v205/sha23a.html
 
 For part of the GMD dataset:
